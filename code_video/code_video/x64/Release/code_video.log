@@ -1,0 +1,8 @@
+﻿  code_video.cpp
+C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\code_video\code_video.cpp(12,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\code_video\code_video.cpp(12,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  code_video.vcxproj -> C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\x64\Release\code_video.exe

@@ -1,0 +1,4 @@
+﻿  code_video.cpp
+C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\code_video\code_video.cpp(12,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\code_video\code_video.cpp(12,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  code_video.vcxproj -> C:\Users\Lucas\Desktop\kunkun.c_code-main\code_video\code_video\x64\Debug\code_video.exe

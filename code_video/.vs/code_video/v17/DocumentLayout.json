@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\kunkun.c_code-main\\code_video\\code_video\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15687589-7F85-4341-9CDC-3C6DC48069C4}|code_video\\code_video.vcxproj|C:\\Users\\Lucas\\Desktop\\kunkun.c_code-main\\code_video\\code_video\\code_video\\code_video.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15687589-7F85-4341-9CDC-3C6DC48069C4}|code_video\\code_video.vcxproj|solutionrelative:code_video\\code_video.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code_video.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\kunkun.c_code-main\\code_video\\code_video\\code_video\\code_video.cpp",
+              "RelativeDocumentMoniker": "code_video\\code_video.cpp",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\kunkun.c_code-main\\code_video\\code_video\\code_video\\code_video.cpp",
+              "RelativeToolTip": "code_video\\code_video.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T10:45:42.3Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
