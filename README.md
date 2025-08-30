@@ -1,5 +1,21 @@
-# kunkun.c_code
-bilibil视频鸡语言.exe视频的源代码上传github喽，大家快来下载
-源代码在chicken_test文件夹中，建议大家打包下载哦，up有空会更新release的
-text压缩包 一 定 要 解 压 ， 一 定 要 解 压 ，一 定 要 解 压 ！！！
-up本人大一学生，刚刚尝试使用github，如果有不合理的地方恳请各位大佬指正，感激不尽
+# fork form kunkun.c_code
+
+## 修改
+
+1.添加了清屏功能。
+
+2.自动识别text文件下的文件数目。
+
+3.播完暂停。
+
+## Release
+
+添加了release版本，直接替换text内容后即可点开 code_video.exe 运行程序。
+
+release版本文件路径为  text\\txt
+
+## 添加工具
+
+添加了图片转字符工具  Ascgen2
+
+ ## 教程
